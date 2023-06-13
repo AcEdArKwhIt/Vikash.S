@@ -119,9 +119,9 @@
   #amd{
     margin-top: -15%;
     font-family: 'Libre Baskerville', serif;
-    color: aliceblue;
+    color: whitesmoke;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
   }
   #p1{
     padding: 2%;
@@ -139,9 +139,9 @@
   #unity{
     margin-top: -15%;
     font-family: 'Libre Baskerville', serif;
-    color: aliceblue;
+    color: whitesmoke;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
   }
   #p2{
     padding: 2%;
@@ -159,9 +159,9 @@
   #steam{
     margin-top: -15%;
     font-family: 'Libre Baskerville', serif;
-    color: antiquewhite;
+    color: whitesmoke;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
   }
   #p3{
     padding: 2%;
@@ -177,10 +177,11 @@
   } 
   /* 4 */
   #stack{
+    margin-top: -15%;
     font-family: 'Libre Baskerville', serif;
-    color: antiquewhite;
+    color: whitesmoke;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
   }
   #p4{
     padding: 2%;
@@ -196,10 +197,11 @@
   }
   /* 5 */
   #server{
+    margin-top: -15%;
     font-family: 'Libre Baskerville', serif;
-    color: aliceblue;
+    color: whitesmoke;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
   }
   #p5{
     padding: 2%;
@@ -215,10 +217,11 @@
   }
   /* 6 */
   #discord{
+    margin-top: -15%;
     font-family: 'Libre Baskerville', serif;  color: aliceblue;
-    color: aliceblue;
+    color: whitesmoke;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
   }
   #p6{
     padding: 2%;
