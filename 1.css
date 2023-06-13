@@ -509,20 +509,7 @@
     border-radius: 50%;
 }
 
-.tooltip {
-    position: absolute;
-    top: -35%;
-    left: 48%;
-    text-align: center;
-    transform: translateX(-50%);
-    background-color: transparent;
-    color: #fff;
-    border-radius: 4px;
-    border: 2px solid goldenrod;
-    opacity: 1;
-    visibility: visible;
-    transition: opacity 0.3s ease;
-}
+
   /* text */
   .text-container {
     text-align: center;
